@@ -15,5 +15,6 @@ python breast_cancer.py
 ## Output
 Accuracy around 95%
 
-## Author
-Maaz
+## present
+Group 8 Members
+
